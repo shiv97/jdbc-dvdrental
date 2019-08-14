@@ -1,5 +1,5 @@
 package com.example.start;
-
+//package com.chpd.wms.local.domain.factory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

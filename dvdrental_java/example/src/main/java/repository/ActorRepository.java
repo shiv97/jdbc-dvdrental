@@ -1,5 +1,5 @@
-package repository;
 
+package com.example.start.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

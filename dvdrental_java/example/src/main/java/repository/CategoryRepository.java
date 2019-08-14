@@ -1,5 +1,4 @@
-package repository;
-
+package com.example.start.repository;
 //import jdk.jfr.Category;
 //import jdk.Category;
 //import jdk.jfr.Category;

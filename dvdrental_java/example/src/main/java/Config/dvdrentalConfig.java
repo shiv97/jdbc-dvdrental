@@ -1,5 +1,5 @@
 package Config;
-
+        //package com.chpd.wms.local.domain.factory;
 import org.springframework.beans.factory.annotation.Qualifier;
 //import org.springframework.boot.autoconfigure.jdbc.DataSourceBuilder;
 import org.springframework.boot.context.properties.ConfigurationProperties;

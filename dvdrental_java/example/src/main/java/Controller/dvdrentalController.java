@@ -1,4 +1,5 @@
-package Controller;//package com.example.start.controller;
+package Controller;
+package com.example.start.controller;
 
 //import com.example.start.model.Film;
 //import com.example.start.repositories.ActorRepository;
@@ -22,6 +23,6 @@ class startController
 	@GetMapping("/start")
 	public String start()
 	{
-	return "hej";
+	return "hi";
     }
 }
